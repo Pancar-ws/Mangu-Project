@@ -20,7 +20,7 @@ Struktur outline mengikuti template resmi proposal:
 
 ---
 #  **OUTLINE DETAIL MINGGUAN**
----
+
 #  **MINGGU 1 (10 – 16 November)**
 ##  _Output Minggu Ini:_
 - BAB I lengkap
@@ -75,7 +75,7 @@ Buat dokumen ringkas berisi:
 - Kebutuhan non-fungsional (responsif, keamanan, kecepatan, ketersediaan)
 - Alur proses utama (flow sederhana)
 ---
-# 🟦 **MINGGU 2 (17 – 23 November)**
+#  **MINGGU 2 (17 – 23 November)**
 ##  _Output Minggu Ini:_
 - ERD final
 - Use Case Diagram
@@ -121,7 +121,7 @@ Isi:
 - Uraian kegiatan
 - Draft jadwal proyek
 ---
-# 🟦 **MINGGU 3 (24 – 30 November)**
+# **MINGGU 3 (24 – 30 November)**
 ##  _Output Minggu Ini:_
 - Project Laravel jadi
 - Migration, Model, Controller
@@ -151,7 +151,7 @@ Tidak perlu rapi dulu.
 - simpan screenshot hasil implementasi
 - catat kendala & solusi
 ---
-# 🟦 **MINGGU 4 (1 – 7 Desember)**
+#  **MINGGU 4 (1 – 7 Desember)**
 ##  _Output Minggu Ini:_
 - Fitur pencarian & filtering
 - Dashboard admin lengkap
@@ -185,7 +185,7 @@ Gunakan:
 - hasil filtering
 - dashboard admin
 ---
-# 🟦 **MINGGU 5 (8 – 14 Desember)**
+#  **MINGGU 5 (8 – 14 Desember)**
 ##  _Output Minggu Ini:_
 - Testing lengkap
 - Bug fixing
